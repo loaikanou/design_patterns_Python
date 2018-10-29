@@ -8,7 +8,7 @@ Often, people only understand how to apply certain software design techniques to
 
 In addition, patterns allow developers to communicate using well-known, well understood names for software interactions. Common design patterns can be improved over time, making them more robust than ad-hoc designs.
 
-## Creational design patterns:
+## [Creational Design Patterns](https://github.com/loaikanou/design_patterns_Python/tree/master/creational_patterns):
 - [Abstract Factory] – Creates an instance of several families of classes.
 - [Builder] – Separates object construction from its representation.
 - [Factory Method] – Creates an instance of several derived classes.
@@ -16,7 +16,7 @@ In addition, patterns allow developers to communicate using well-known, well und
 - [Prototype] – A fully initialized instance to be copied or cloned.
 - [Singleton] – A class of which only a single instance can exist.
 
-## Structural design patterns:
+## [Structural Design Patterns](https://github.com/loaikanou/design_patterns_Python/tree/master/structural_patterns):
 - [Adapter] – Match interfaces of different classes.
 - [Bridge] – Separates an object's interface from its implementation.
 - [Composite] – A tree structure of simple and composite objects.
@@ -26,7 +26,7 @@ In addition, patterns allow developers to communicate using well-known, well und
 - [Private Class Data] – Restricts accessor/mutator access.
 - [Proxy] – An object representing another object.
 
-## Behavioral design patterns:
+## [Behavioral Design Patterns](https://github.com/loaikanou/design_patterns_Python/tree/master/behavioral_patterns):
 - [Chain of responsibility] – A way of passing a request between a chain of objects.
 - [Command] – Encapsulate a command request as an object.
 - [Interpreter] – A way to include language elements in a program.
@@ -43,4 +43,6 @@ In addition, patterns allow developers to communicate using well-known, well und
 ## Criticism:
 The concept of design patterns has been criticized by some in the field of computer science.
 
+
+## License
 By: [Loai N Kanou](http://loai.xyz/) .
